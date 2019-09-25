@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+  <route edges="8_3 8_2 8_1 8_0 5_2 5_1 5_0 2_1 2_0 0 8_3" id="route8_3_0"/>
+  <route edges="7_2 7_1 7_0 4_2 4_1 4_0 1_1 1_0 0 7_3 7_2" id="route7_2_0"/>
+  <route edges="5_1 5_0 2_1 2_0 0 8_3 8_2 8_1 8_0 5_2 5_1" id="route5_1_0"/>
+  <route edges="8_2 8_1 8_0 6_2 6_1 6_0 2_1 2_0 0 8_3 8_2" id="route8_2_0"/>
+  <route edges="3_1 3_0 1_1 1_0 0 7_3 7_2 7_1 7_0 3_2 3_1" id="route3_1_0"/>
+  <route edges="6_1 6_0 2_1 2_0 0 8_3 8_2 8_1 8_0 6_2 6_1" id="route6_1_0"/>
+  <route edges="7_3 7_2 7_1 7_0 3_2 3_1 3_0 1_1 1_0 0 7_3" id="route7_3_0"/>
+  <route edges="4_1 4_0 1_1 1_0 0 7_3 7_2 7_1 7_0 4_2 4_1" id="route4_1_0"/>
+  <route edges="8_1 8_0 5_2 5_1 5_0 2_1 2_0 0 8_3 8_2 8_1" id="route8_1_0"/>
+  <route edges="7_1 7_0 3_2 3_1 3_0 1_1 1_0 0 7_3 7_2 7_1" id="route7_1_0"/>
+</routes>
